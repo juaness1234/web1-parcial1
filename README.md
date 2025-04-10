@@ -1,1 +1,1 @@
-.
+Este proyecto está construido con HTML5 para estructura semántica, Bootstrap 5 (navbar, grid, cards, modals, carousel y formularios responsive) para componentes interactivos, CSS3 para estilos personalizados y Bootstrap Icons para elementos gráficos, ofreciendo una presentación elegante de proyectos y un canal de contacto.
